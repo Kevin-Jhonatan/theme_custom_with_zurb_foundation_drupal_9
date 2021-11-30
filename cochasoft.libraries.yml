@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/cochasoft.css: {}
+  js:
+    js/script.js: {}
